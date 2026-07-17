@@ -1,6 +1,6 @@
 <div align="center">
 
-### 안녕하세요, 치킨무입니다
+### 안녕하세요, 치킨무에요
 
 백엔드와 도구를 중심으로 만드는 개발자입니다.  
 TypeScript · Python · Go로 API, 자동화, CLI를 주로 다룹니다.

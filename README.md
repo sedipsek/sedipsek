@@ -19,3 +19,10 @@ Discord `chimu314` · [github.com/sedipsek](https://github.com/sedipsek)
 
 - [**report_coach**](https://github.com/sedipsek/report_coach) — 과학전람회 탐구 보고서 RAG 검색, AI 채팅, 탐구 코치
 - [**gotoshare**](https://github.com/sedipsek/gotoshare) — LAN에서 쓰는 Go 기반 P2P 파일 공유 CLI *(WIP)*
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sedipsek&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sedipsek&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+</p>

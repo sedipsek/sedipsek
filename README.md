@@ -9,7 +9,7 @@ TypeScript · Python · Go로 API, 자동화, CLI를 주로 다룹니다.
 
 <br/><br/>
 
-<a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-chimu314-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord chimu314" /></a>
+<a href="https://discord.com/users/1282575895256895580"><img src="https://img.shields.io/badge/Discord-chimu314-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord chimu314" /></a>
 &nbsp;
 <a href="https://github.com/sedipsek"><img src="https://img.shields.io/badge/GitHub-sedipsek-181717?style=flat&logo=github&logoColor=white" alt="GitHub sedipsek" /></a>
 

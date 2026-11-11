@@ -25,8 +25,8 @@ TypeScript · Python · Go로 API, 자동화, CLI를 주로 다룹니다.
 <br/>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sedipsek&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedipsek&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
-</p>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sedipsek&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sedipsek&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+</p>

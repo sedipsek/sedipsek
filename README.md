@@ -17,10 +17,10 @@ TypeScript · Python · Go로 API, 자동화, CLI를 주로 다룹니다.
 
 <br/>
 
-지금 만드는 것들
+지금까지 만든 것들(중에 보여줄만한거)
 
 - [**report_coach**](https://github.com/sedipsek/report_coach) — 과학전람회 탐구 보고서 RAG 검색, AI 채팅, 탐구 코치
-- [**gotoshare**](https://github.com/sedipsek/gotoshare) — LAN에서 쓰는 Go 기반 P2P 파일 공유 CLI *(WIP)*
+- [**gotoshare**](https://github.com/sedipsek/gotoshare) — LAN에서 쓰는 Go 기반 P2P 파일 공유 CLI *(WIP)* <- 완성안됨
 
 <br/>
 

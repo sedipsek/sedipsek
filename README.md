@@ -3,9 +3,9 @@
 ### 안녕하세요, 치킨무에요
 
 백엔드와 도구를 중심으로 만드는 개발자입니다.  
-TypeScript · Rust · Go로 API, 자동화, 백엔드개발을 주로 다룹니다.
+TypeScript · Rust · Python · Go로 API, 자동화, 백엔드개발을 주로 다룹니다.
 
-<img src="https://skillicons.dev/icons?i=ts,python,go,fastapi,postgres,docker&theme=light" alt="skills" />
+<img src="https://skillicons.dev/icons?i=ts,rust,python,go,fastapi,postgres,docker&theme=light" alt="skills" />
 
 <br/><br/>
 
